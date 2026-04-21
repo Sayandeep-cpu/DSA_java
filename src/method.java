@@ -26,14 +26,11 @@ public class method {
     }
 */
 
-
     static void solve(int num){
         System.out.println("inside solve: " + num);
         num = num *10;
         System.out.println("inside solve : " + num);
     }
-
-
 
     static void main() {
 
